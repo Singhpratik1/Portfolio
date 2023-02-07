@@ -171,7 +171,7 @@
                         </div>
                         <div class="column right">
                             <div class="text">Message me</div>
-                            <form action="/project/portfolio.php" method="post">
+                            <form action="portfolio.php" method="post">
                                 <div class="fields">
                                     <div class="field name">
                                         <input type="text"  name="name" id="name" placeholder="Name" required />
